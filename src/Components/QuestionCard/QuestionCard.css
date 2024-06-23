@@ -1,0 +1,10 @@
+
+.QuestionCard{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 400px;
+}
+.Question{
+    margin-bottom: 2rem;
+}
